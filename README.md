@@ -46,7 +46,7 @@ This repository is designed to make Netherlands market API coverage easier to di
 
 ## Links
 
-- Website: https://kun.pro/markets/netherlands-stock-market-api
+- Website: https://kun.pro/stocks-en.html
 - Docs: https://kun.pro/docs-en.html
 - Main site: https://kun.pro
 
